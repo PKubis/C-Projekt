@@ -14,23 +14,22 @@
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-floating">
                 <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" />
-                <label asp-for="Input.Email" class="text-dark"></label>
+                <label asp-for="Input.Email" class="text-dark">Podaj e-mail</label>
                 <span asp-validation-for="Input.Email" class="text-danger"></span>
             </div>
             <div class="form-floating">
                 <input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" />
-                <label asp-for="Input.Password" class="text-dark"></label>
+                <label asp-for="Input.Password" class="text-dark">Podaj hasło</label>
                 <span asp-validation-for="Input.Password" class="text-danger"></span>
             </div>
             <div class="form-floating">
                 <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" />
-                <label asp-for="Input.ConfirmPassword" class="text-dark"></label>
+                <label asp-for="Input.ConfirmPassword" class="text-dark">Potwierdź hasło</label>
                 <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
             </div>
-            <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-warning">Register</button>
+            <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-warning">Rejestracja</button>
         </form>
     </div>
-
 
     <div class="col-md-6 col-md-offset-2">
         <section>
@@ -50,12 +49,10 @@
                     </form>
                 }
             }
-            
+
             <img src="~/images/register.jpg" alt="Rejestracja" class="img-fluid" />
         </section>
     </div>
-   
-    
 </div>
 
 @section Scripts {

@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\images\\ballLogo.jpg"
     },
     {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\goodjob.jpg",
+      "PackagePath": "staticwebassets\\images\\goodjob.jpg"
+    },
+    {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\register.jpg",
       "PackagePath": "staticwebassets\\images\\register.jpg"
     },

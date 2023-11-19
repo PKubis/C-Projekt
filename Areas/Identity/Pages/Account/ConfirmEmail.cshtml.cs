@@ -29,6 +29,7 @@ namespace _4Ballers.Areas.Identity.Pages.Account
         /// </summary>
         [TempData]
         public string StatusMessage { get; set; }
+
         public async Task<IActionResult> OnGetAsync(string userId, string code)
         {
             if (userId == null || code == null)
@@ -44,7 +45,18 @@ namespace _4Ballers.Areas.Identity.Pages.Account
 
             code = Encoding.UTF8.GetString(WebEncoders.Base64UrlDecode(code));
             var result = await _userManager.ConfirmEmailAsync(user, code);
-            StatusMessage = result.Succeeded ? "Thank you for confirming your email." : "Error confirming your email.";
+
+            // Zaktualizowana wiadomość
+            StatusMessage = result.Succeeded
+                ? "Dziękujemy za potwierdzenie e-maila."
+                : "Błąd podczas potwierdzania e-maila.";
+
+            if (result.Succeeded)
+            {
+                // Zaktualizowana wiadomość po potwierdzeniu e-maila
+                StatusMessage = "Dziękujemy za potwierdzenie e-maila.";
+            }
+
             return Page();
         }
     }

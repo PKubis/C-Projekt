@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+b8QelEr86gHr13MC4VtgnO3Fw3c6Y21LkuG4YR/Kxs=",
+  "Hash": "LyD17ry/n+5jBCF67uazXLjclqhy6l+gO6J10pACBQI=",
   "Source": "4Ballers",
   "BasePath": "_content/4Ballers",
   "Mode": "Default",
@@ -1137,6 +1137,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\FrontLogo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\goodjob.jpg",
+      "SourceId": "4Ballers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
+      "BasePath": "_content/4Ballers",
+      "RelativePath": "images/goodjob.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\goodjob.jpg"
     },
     {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\register.jpg",
