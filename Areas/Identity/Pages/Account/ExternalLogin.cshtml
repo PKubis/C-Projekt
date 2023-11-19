@@ -1,17 +1,17 @@
 ﻿@page
 @model ExternalLoginModel
 @{
-    ViewData["Title"] = "Register";
+    ViewData["Title"] = "Rejestracja";
 }
 
-<h1>@ViewData["Title"]</h1>
-<h2 id="external-login-title">Associate your @Model.ProviderDisplayName account.</h2>
+<h1 class="text-orange">@ViewData["Title"]</h1>
+<h2 id="external-login-title">Powiąż swoje @Model.ProviderDisplayName konto.</h2>
 <hr />
 
 <p id="external-login-description" class="text-info">
-    You've successfully authenticated with <strong>@Model.ProviderDisplayName</strong>.
-    Please enter an email address for this site below and click the Register button to finish
-    logging in.
+    Pomyślnie dokonałeś uwierzytelnienia za pomocą <strong>@Model.ProviderDisplayName</strong>.
+    Wpisz poniżej adres e-mail tej witryny i kliknij przycisk Zarejestruj, aby zakończyć
+    Logowanie.
 </p>
 
 <div class="row">
@@ -20,10 +20,10 @@
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-floating">
                 <input asp-for="Input.Email" class="form-control" autocomplete="email" />
-                <label asp-for="Input.Email" class="form-label"></label>
+                <label asp-for="Input.Email" class="text-dark">Email</label>
                 <span asp-validation-for="Input.Email" class="text-danger"></span>
             </div>
-            <button type="submit" class="w-100 btn btn-lg btn-primary">Register</button>
+            <button type="submit" class="w-100 btn btn-lg btn-warning">Rejestruj</button>
         </form>
     </div>
 </div>

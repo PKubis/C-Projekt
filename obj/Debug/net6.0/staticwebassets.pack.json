@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets\\images\\register.jpg"
     },
     {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\welcome.jpg",
+      "PackagePath": "staticwebassets\\images\\welcome.jpg"
+    },
+    {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

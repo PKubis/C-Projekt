@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LyD17ry/n+5jBCF67uazXLjclqhy6l+gO6J10pACBQI=",
+  "Hash": "kjYCTeIvrlhQUOIxoP5IgDGsrMPCU/JNeCiQ3S2Ws64=",
   "Source": "4Ballers",
   "BasePath": "_content/4Ballers",
   "Mode": "Default",
@@ -1171,6 +1171,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\register.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\welcome.jpg",
+      "SourceId": "4Ballers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
+      "BasePath": "_content/4Ballers",
+      "RelativePath": "images/welcome.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\welcome.jpg"
     },
     {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\js\\site.js",
