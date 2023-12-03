@@ -1,23 +1,40 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using _4Ballers.Models; // Dodaj przestrzeń nazw modelu
+using _4Ballers.Models;
+using Microsoft.AspNetCore.Authorization;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace _4Ballers.Controllers
 {
     public class PublicController : Controller
     {
+        private readonly TeamInfoProvider _teamInfoProvider;
+
+        // Inject ITeamInfoProvider through the constructor
+        public PublicController(TeamInfoProvider teamInfoProvider)
+        {
+            _teamInfoProvider = teamInfoProvider;
+        }
+
         public IActionResult History()
         {
             ViewData["Title"] = "Historia";
             return View();
         }
 
+        [AllowAnonymous]
         public IActionResult Teams()
         {
+            if (!User.Identity.IsAuthenticated)
+            {
+                // Jeśli użytkownik nie jest zalogowany, przekieruj go do strony logowania w obszarze Identity
+                return Redirect("~/Identity/Account/Login");
+            }
+
             List<Team> teams = GetTeamsData();
             ViewData["Title"] = "Drużyny";
             return View("~/Views/Public/Teams/Team.cshtml", teams);
         }
-
 
         public IActionResult Contact()
         {
@@ -25,12 +42,38 @@ namespace _4Ballers.Controllers
             return View();
         }
 
+        [Authorize]
+        public IActionResult TeamDetails(int id)
+        {
+            var team = GetTeamsData().FirstOrDefault(t => t.Id == id);
+            var teamInfo = _teamInfoProvider.GetTeamInfo(id);
+
+            if (team == null || teamInfo == null)
+            {
+                // Jeśli drużyna lub jej informacje nie istnieją, przekieruj użytkownika do akcji "Teams"
+                return RedirectToAction("Teams");
+            }
+
+            if (User.Identity.IsAuthenticated)
+            {
+                // Jeśli użytkownik jest zalogowany, przekieruj go do widoku z informacjami o drużynie
+                // Przekaż obiekt teamInfo do widoku
+                return View("~/Views/Public/Teams/TeamDetails.cshtml", (team, teamInfo));
+            }
+            else
+            {
+                // Jeśli użytkownik nie jest zalogowany, przekieruj go do strony logowania
+                return Redirect("~/Identity/Account/Login");
+            }
+        }
+
+
         private List<Team> GetTeamsData()
         {
 
             return new List<Team>
         {
-                
+
             new Team { Id = 1,  ImageUrl = "/images/PhilLogo.jpg" },
             new Team { Id = 2,  ImageUrl = "/images/CeltLogo.jpg" },
             new Team { Id = 3,  ImageUrl = "/images/NetLogo.jpg" },
@@ -65,3 +108,7 @@ namespace _4Ballers.Controllers
         }
     }
 }
+
+
+
+

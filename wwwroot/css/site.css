@@ -43,10 +43,17 @@ body {
 #logo2 .logo-img {
     width: 1em;
     height: 1em;
-    margin-right: 10px;
+    margin-right: 10px
 }
 .team-image {
     max-width: 100%; /* Ustaw szerokoœæ na 100%, aby zachowaæ proporcje */
     height: auto; /* Ustaw wysokoœæ na auto, aby zachowaæ proporcje */
     max-height: 150px; /* Maksymalna wysokoœæ obrazka */
 }
+
+.team-image-full {
+    width: 100%;
+    height: 53vh; /* 100% wysokoœci widoku (viewport height) */
+    object-fit: cover; /* Zdjêcie zostanie skalowane, aby wype³niæ ca³y kontener, zachowuj¹c proporcje */
+}
+

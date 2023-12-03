@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "678lcybULlY/1x6R3B3zqIKk3epZkhEXq/yDL2uGYj+sBVjgnV/HUKHbJcP9TNBYiPJtWf/ytaEzo8et9OOwIQ==",
+  "dgSpecHash": "q3CUZdFlzoHT7gPAJZUWWCrWTqr0Sxb9aFdypIrGk2xBLqAU6AofX7IdK+NcqXzOk6C40yeWu2WB/FlFB/wPzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\4Ballers.csproj",
+  "projectFilePath": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\4Ballers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\piotr\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\piotr\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

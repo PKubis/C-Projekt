@@ -11501,11 +11501,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\4Ballers.csproj",
+      "projectUniqueName": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\4Ballers.csproj",
       "projectName": "4Ballers",
-      "projectPath": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\4Ballers.csproj",
+      "projectPath": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\4Ballers.csproj",
       "packagesPath": "C:\\Users\\piotr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\obj\\",
+      "outputPath": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
