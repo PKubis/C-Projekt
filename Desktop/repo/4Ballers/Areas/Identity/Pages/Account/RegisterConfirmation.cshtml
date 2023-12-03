@@ -1,0 +1,33 @@
+﻿@page
+@model RegisterConfirmationModel
+@{
+    ViewData["Title"] = "Potwierdzenie rejestracji";
+}
+
+<style>
+    #registration-title {
+        color: white;
+    }
+
+    #registration-subtitle {
+        color: orange;
+    }
+</style>
+
+<h1 id="registration-title">Potwierdzenie <span id="registration-subtitle">rejestracji</span></h1>
+@if (Model.DisplayConfirmAccountLink)
+{
+    <p>
+        Ta aplikacja nie ma obecnie zarejestrowanego prawdziwego nadawcy e-maili,
+        zobacz <a href="https://aka.ms/aspaccountconf">ten dokument</a> aby skonfigurować prawdziwego nadawcę e-maili.
+        Zwykle wiadomość ta jest wysyłana e-mailem
+        <a id="confirm-link" href="@Model.EmailConfirmationUrl" style="color: orange;">Kliknij tutaj aby potwierdzić swoje konto</a>
+    </p>
+    <img src="~/images/ballLogo.jpg" alt="Good Job" style="width: 200px; height: auto;" />
+}
+else
+{
+    <p>
+        Proszę, sprawdź swój email w celu weryfikacji rejestracji
+    </p>
+}
