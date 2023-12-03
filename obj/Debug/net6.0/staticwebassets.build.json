@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NVkA00v3Xgo9YWNTXyvx/nYoDTdWPAvpgbxALo6ZW1s=",
+  "Hash": "GA4Xuhedn3DIkTWJhYHwYkRNvSPIKqE1PIwa8Yxnczg=",
   "Source": "4Ballers",
   "BasePath": "_content/4Ballers",
   "Mode": "Default",
@@ -1122,6 +1122,23 @@
       "OriginalItemSpec": "wwwroot\\images\\76court.jpg"
     },
     {
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\AtlCourt.jpg",
+      "SourceId": "4Ballers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
+      "BasePath": "_content/4Ballers",
+      "RelativePath": "images/AtlCourt.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\AtlCourt.jpg"
+    },
+    {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\AtlLogo.jpg",
       "SourceId": "4Ballers",
       "SourceType": "Discovered",
@@ -1156,6 +1173,23 @@
       "OriginalItemSpec": "wwwroot\\images\\ballLogo.jpg"
     },
     {
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\BlazersCourt.jpg",
+      "SourceId": "4Ballers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
+      "BasePath": "_content/4Ballers",
+      "RelativePath": "images/BlazersCourt.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\BlazersCourt.jpg"
+    },
+    {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\BlazersLogo.jpg",
       "SourceId": "4Ballers",
       "SourceType": "Discovered",
@@ -1171,6 +1205,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\BlazersLogo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\BostonCourt.jpg",
+      "SourceId": "4Ballers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
+      "BasePath": "_content/4Ballers",
+      "RelativePath": "images/BostonCourt.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\BostonCourt.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\BrooklynCourt.jpg",
+      "SourceId": "4Ballers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
+      "BasePath": "_content/4Ballers",
+      "RelativePath": "images/BrooklynCourt.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\BrooklynCourt.jpg"
     },
     {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\BucksLogo.jpg",
@@ -1190,6 +1258,23 @@
       "OriginalItemSpec": "wwwroot\\images\\BucksLogo.jpg"
     },
     {
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\BullsCourt.jpg",
+      "SourceId": "4Ballers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
+      "BasePath": "_content/4Ballers",
+      "RelativePath": "images/BullsCourt.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\BullsCourt.jpg"
+    },
+    {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\BullsLogo.jpg",
       "SourceId": "4Ballers",
       "SourceType": "Discovered",
@@ -1205,6 +1290,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\BullsLogo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\CavsCourt.jpg",
+      "SourceId": "4Ballers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
+      "BasePath": "_content/4Ballers",
+      "RelativePath": "images/CavsCourt.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\CavsCourt.jpg"
     },
     {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\CavsLogo.jpg",
@@ -1239,23 +1341,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\CeltLogo.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\CharloteLogo.jpg",
-      "SourceId": "4Ballers",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
-      "BasePath": "_content/4Ballers",
-      "RelativePath": "images/CharloteLogo.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\CharloteLogo.jpg"
     },
     {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\ChicagoLogo.jpg",
@@ -1309,12 +1394,12 @@
       "OriginalItemSpec": "wwwroot\\images\\DenLogo.jpg"
     },
     {
-      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\DenverLogo.jpg",
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\DenvCourt.jpg",
       "SourceId": "4Ballers",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
       "BasePath": "_content/4Ballers",
-      "RelativePath": "images/DenverLogo.jpg",
+      "RelativePath": "images/DenvCourt.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1323,7 +1408,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\DenverLogo.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\DenvCourt.jpg"
     },
     {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\DetLogo.jpg",
@@ -1341,6 +1426,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\DetLogo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\DetroitCourt.jpg",
+      "SourceId": "4Ballers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
+      "BasePath": "_content/4Ballers",
+      "RelativePath": "images/DetroitCourt.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\DetroitCourt.jpg"
     },
     {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\DinoLogo.jpg",
@@ -1394,6 +1496,23 @@
       "OriginalItemSpec": "wwwroot\\images\\goodjob.jpg"
     },
     {
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\GrizllyCourt.jpg",
+      "SourceId": "4Ballers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
+      "BasePath": "_content/4Ballers",
+      "RelativePath": "images/GrizllyCourt.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\GrizllyCourt.jpg"
+    },
+    {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\GrizzlyLogo.jpg",
       "SourceId": "4Ballers",
       "SourceType": "Discovered",
@@ -1409,6 +1528,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\GrizzlyLogo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\GSWCourt.jpg",
+      "SourceId": "4Ballers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
+      "BasePath": "_content/4Ballers",
+      "RelativePath": "images/GSWCourt.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\GSWCourt.jpg"
     },
     {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\GswLogo.jpg",
@@ -1428,12 +1564,12 @@
       "OriginalItemSpec": "wwwroot\\images\\GswLogo.jpg"
     },
     {
-      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\HawksLogo.jpg",
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\HeatCourt.jpg",
       "SourceId": "4Ballers",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
       "BasePath": "_content/4Ballers",
-      "RelativePath": "images/HawksLogo.jpg",
+      "RelativePath": "images/HeatCourt.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1442,7 +1578,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\HawksLogo.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\HeatCourt.jpg"
     },
     {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\HeatsLogo.jpg",
@@ -1462,6 +1598,23 @@
       "OriginalItemSpec": "wwwroot\\images\\HeatsLogo.jpg"
     },
     {
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\HornetCourt.jpg",
+      "SourceId": "4Ballers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
+      "BasePath": "_content/4Ballers",
+      "RelativePath": "images/HornetCourt.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\HornetCourt.jpg"
+    },
+    {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\HornetLogo.jpg",
       "SourceId": "4Ballers",
       "SourceType": "Discovered",
@@ -1479,12 +1632,12 @@
       "OriginalItemSpec": "wwwroot\\images\\HornetLogo.jpg"
     },
     {
-      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\HustonLogo.jpg",
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\HustonCourt.jpg",
       "SourceId": "4Ballers",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
       "BasePath": "_content/4Ballers",
-      "RelativePath": "images/HustonLogo.jpg",
+      "RelativePath": "images/HustonCourt.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1493,7 +1646,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\HustonLogo.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\HustonCourt.jpg"
     },
     {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\IndyLogo.jpg",
@@ -1513,12 +1666,12 @@
       "OriginalItemSpec": "wwwroot\\images\\IndyLogo.jpg"
     },
     {
-      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\KingsLogo.jpg",
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\JazzCourt.jpg",
       "SourceId": "4Ballers",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
       "BasePath": "_content/4Ballers",
-      "RelativePath": "images/KingsLogo.jpg",
+      "RelativePath": "images/JazzCourt.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1527,7 +1680,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\KingsLogo.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\JazzCourt.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\KingsCourt.jpg",
+      "SourceId": "4Ballers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
+      "BasePath": "_content/4Ballers",
+      "RelativePath": "images/KingsCourt.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\KingsCourt.jpg"
     },
     {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\KnicksLogo.jpg",
@@ -1547,6 +1717,23 @@
       "OriginalItemSpec": "wwwroot\\images\\KnicksLogo.jpg"
     },
     {
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\LACCourt.jpg",
+      "SourceId": "4Ballers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
+      "BasePath": "_content/4Ballers",
+      "RelativePath": "images/LACCourt.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\LACCourt.jpg"
+    },
+    {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\LakersLogo.jpg",
       "SourceId": "4Ballers",
       "SourceType": "Discovered",
@@ -1562,6 +1749,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\LakersLogo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\LALCourt.jpg",
+      "SourceId": "4Ballers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
+      "BasePath": "_content/4Ballers",
+      "RelativePath": "images/LALCourt.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\LALCourt.jpg"
     },
     {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\LalLogo.jpg",
@@ -1581,12 +1785,12 @@
       "OriginalItemSpec": "wwwroot\\images\\LalLogo.jpg"
     },
     {
-      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\MagicLogo.jpg",
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\MagicCourt.jpg",
       "SourceId": "4Ballers",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
       "BasePath": "_content/4Ballers",
-      "RelativePath": "images/MagicLogo.jpg",
+      "RelativePath": "images/MagicCourt.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1595,7 +1799,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\MagicLogo.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\MagicCourt.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\MavsCourt.jpg",
+      "SourceId": "4Ballers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
+      "BasePath": "_content/4Ballers",
+      "RelativePath": "images/MavsCourt.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\MavsCourt.jpg"
     },
     {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\MavsLogo.jpg",
@@ -1630,6 +1851,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\MiamiLogo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\MillCourt.jpg",
+      "SourceId": "4Ballers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
+      "BasePath": "_content/4Ballers",
+      "RelativePath": "images/MillCourt.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\MillCourt.jpg"
     },
     {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\MillLogo.jpg",
@@ -1700,12 +1938,12 @@
       "OriginalItemSpec": "wwwroot\\images\\NugetLogo.jpg"
     },
     {
-      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\OKCLogo.jpg",
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\Nykcourt.jpg",
       "SourceId": "4Ballers",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
       "BasePath": "_content/4Ballers",
-      "RelativePath": "images/OKCLogo.jpg",
+      "RelativePath": "images/Nykcourt.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1714,7 +1952,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\OKCLogo.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\Nykcourt.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\OKCCourt.jpg",
+      "SourceId": "4Ballers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
+      "BasePath": "_content/4Ballers",
+      "RelativePath": "images/OKCCourt.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\OKCCourt.jpg"
     },
     {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\OrlandoLogo.jpg",
@@ -1734,6 +1989,23 @@
       "OriginalItemSpec": "wwwroot\\images\\OrlandoLogo.jpg"
     },
     {
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\PacersCourt.jpg",
+      "SourceId": "4Ballers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
+      "BasePath": "_content/4Ballers",
+      "RelativePath": "images/PacersCourt.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\PacersCourt.jpg"
+    },
+    {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\PacersLogo.jpg",
       "SourceId": "4Ballers",
       "SourceType": "Discovered",
@@ -1749,6 +2021,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\PacersLogo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\PelicanCourt.jpg",
+      "SourceId": "4Ballers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
+      "BasePath": "_content/4Ballers",
+      "RelativePath": "images/PelicanCourt.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\PelicanCourt.jpg"
     },
     {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\PelicansLogo.jpg",
@@ -1836,6 +2125,23 @@
       "OriginalItemSpec": "wwwroot\\images\\SacrLogo.jpg"
     },
     {
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\SpursCourt.jpg",
+      "SourceId": "4Ballers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
+      "BasePath": "_content/4Ballers",
+      "RelativePath": "images/SpursCourt.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\SpursCourt.jpg"
+    },
+    {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\SpursLogo.jpg",
       "SourceId": "4Ballers",
       "SourceType": "Discovered",
@@ -1851,6 +2157,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\SpursLogo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\SunsCourt.jpg",
+      "SourceId": "4Ballers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
+      "BasePath": "_content/4Ballers",
+      "RelativePath": "images/SunsCourt.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\SunsCourt.jpg"
     },
     {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\SunsLogo.jpg",
@@ -1885,6 +2208,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\ThunderLogo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\TimberCourt.jpg",
+      "SourceId": "4Ballers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
+      "BasePath": "_content/4Ballers",
+      "RelativePath": "images/TimberCourt.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\TimberCourt.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\Torontocourt.jpg",
+      "SourceId": "4Ballers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
+      "BasePath": "_content/4Ballers",
+      "RelativePath": "images/Torontocourt.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Torontocourt.jpg"
     },
     {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\UtaLogo.jpg",
@@ -1938,12 +2295,12 @@
       "OriginalItemSpec": "wwwroot\\images\\welcome.jpg"
     },
     {
-      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\WizardsLogo.jpg",
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\WizCourt.jpg",
       "SourceId": "4Ballers",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
       "BasePath": "_content/4Ballers",
-      "RelativePath": "images/WizardsLogo.jpg",
+      "RelativePath": "images/WizCourt.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1952,24 +2309,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\WizardsLogo.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\WolvesLogo.jpg",
-      "SourceId": "4Ballers",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
-      "BasePath": "_content/4Ballers",
-      "RelativePath": "images/WolvesLogo.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\WolvesLogo.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\WizCourt.jpg"
     },
     {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\YorkLogo.jpg",
@@ -1987,6 +2327,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\YorkLogo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\Zrzut ekranu 2023-12-03 215347.jpg",
+      "SourceId": "4Ballers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\",
+      "BasePath": "_content/4Ballers",
+      "RelativePath": "images/Zrzut ekranu 2023-12-03 215347.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Zrzut ekranu 2023-12-03 215347.jpg"
     },
     {
       "Identity": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\js\\site.js",

@@ -99,7 +99,7 @@ namespace _4Ballers.Controllers
             new Team { Id = 23,  ImageUrl = "/images/LalLogo.jpg" },
             new Team { Id = 24,  ImageUrl = "/images/SunsLogo.jpg" },
             new Team { Id = 25,  ImageUrl = "/images/SacrLogo.jpg" },
-            new Team { Id = 26,  ImageUrl = "/images/MinLogo.jpg" },
+            new Team { Id = 26,  ImageUrl = "/images/MavsLogo.jpg" },
             new Team { Id = 27,  ImageUrl = "/images/RocketsLogo.jpg" },
             new Team { Id = 28,  ImageUrl = "/images/GrizzlyLogo.jpg" },
             new Team { Id = 29,  ImageUrl = "/images/PelicansLogo.jpg" },

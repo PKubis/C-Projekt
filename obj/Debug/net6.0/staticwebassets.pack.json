@@ -17,20 +17,44 @@
       "PackagePath": "staticwebassets\\images\\76court.jpg"
     },
     {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\AtlCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\AtlCourt.jpg"
+    },
+    {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\AtlLogo.jpg",
       "PackagePath": "staticwebassets\\images\\AtlLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\BlazersCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\BlazersCourt.jpg"
     },
     {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\BlazersLogo.jpg",
       "PackagePath": "staticwebassets\\images\\BlazersLogo.jpg"
     },
     {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\BostonCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\BostonCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\BrooklynCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\BrooklynCourt.jpg"
+    },
+    {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\BucksLogo.jpg",
       "PackagePath": "staticwebassets\\images\\BucksLogo.jpg"
     },
     {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\BullsCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\BullsCourt.jpg"
+    },
+    {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\BullsLogo.jpg",
       "PackagePath": "staticwebassets\\images\\BullsLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\CavsCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\CavsCourt.jpg"
     },
     {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\CavsLogo.jpg",
@@ -39,10 +63,6 @@
     {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\CeltLogo.jpg",
       "PackagePath": "staticwebassets\\images\\CeltLogo.jpg"
-    },
-    {
-      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\CharloteLogo.jpg",
-      "PackagePath": "staticwebassets\\images\\CharloteLogo.jpg"
     },
     {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\ChicagoLogo.jpg",
@@ -57,12 +77,16 @@
       "PackagePath": "staticwebassets\\images\\DenLogo.jpg"
     },
     {
-      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\DenverLogo.jpg",
-      "PackagePath": "staticwebassets\\images\\DenverLogo.jpg"
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\DenvCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\DenvCourt.jpg"
     },
     {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\DetLogo.jpg",
       "PackagePath": "staticwebassets\\images\\DetLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\DetroitCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\DetroitCourt.jpg"
     },
     {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\DinoLogo.jpg",
@@ -73,6 +97,14 @@
       "PackagePath": "staticwebassets\\images\\FrontLogo.jpg"
     },
     {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\GSWCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\GSWCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\GrizllyCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\GrizllyCourt.jpg"
+    },
+    {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\GrizzlyLogo.jpg",
       "PackagePath": "staticwebassets\\images\\GrizzlyLogo.jpg"
     },
@@ -81,32 +113,48 @@
       "PackagePath": "staticwebassets\\images\\GswLogo.jpg"
     },
     {
-      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\HawksLogo.jpg",
-      "PackagePath": "staticwebassets\\images\\HawksLogo.jpg"
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\HeatCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\HeatCourt.jpg"
     },
     {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\HeatsLogo.jpg",
       "PackagePath": "staticwebassets\\images\\HeatsLogo.jpg"
     },
     {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\HornetCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\HornetCourt.jpg"
+    },
+    {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\HornetLogo.jpg",
       "PackagePath": "staticwebassets\\images\\HornetLogo.jpg"
     },
     {
-      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\HustonLogo.jpg",
-      "PackagePath": "staticwebassets\\images\\HustonLogo.jpg"
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\HustonCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\HustonCourt.jpg"
     },
     {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\IndyLogo.jpg",
       "PackagePath": "staticwebassets\\images\\IndyLogo.jpg"
     },
     {
-      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\KingsLogo.jpg",
-      "PackagePath": "staticwebassets\\images\\KingsLogo.jpg"
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\JazzCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\JazzCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\KingsCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\KingsCourt.jpg"
     },
     {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\KnicksLogo.jpg",
       "PackagePath": "staticwebassets\\images\\KnicksLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\LACCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\LACCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\LALCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\LALCourt.jpg"
     },
     {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\LakersLogo.jpg",
@@ -117,8 +165,12 @@
       "PackagePath": "staticwebassets\\images\\LalLogo.jpg"
     },
     {
-      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\MagicLogo.jpg",
-      "PackagePath": "staticwebassets\\images\\MagicLogo.jpg"
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\MagicCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\MagicCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\MavsCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\MavsCourt.jpg"
     },
     {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\MavsLogo.jpg",
@@ -127,6 +179,10 @@
     {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\MiamiLogo.jpg",
       "PackagePath": "staticwebassets\\images\\MiamiLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\MillCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\MillCourt.jpg"
     },
     {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\MillLogo.jpg",
@@ -145,16 +201,28 @@
       "PackagePath": "staticwebassets\\images\\NugetLogo.jpg"
     },
     {
-      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\OKCLogo.jpg",
-      "PackagePath": "staticwebassets\\images\\OKCLogo.jpg"
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\Nykcourt.jpg",
+      "PackagePath": "staticwebassets\\images\\Nykcourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\OKCCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\OKCCourt.jpg"
     },
     {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\OrlandoLogo.jpg",
       "PackagePath": "staticwebassets\\images\\OrlandoLogo.jpg"
     },
     {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\PacersCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\PacersCourt.jpg"
+    },
+    {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\PacersLogo.jpg",
       "PackagePath": "staticwebassets\\images\\PacersLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\PelicanCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\PelicanCourt.jpg"
     },
     {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\PelicansLogo.jpg",
@@ -173,8 +241,16 @@
       "PackagePath": "staticwebassets\\images\\SacrLogo.jpg"
     },
     {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\SpursCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\SpursCourt.jpg"
+    },
+    {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\SpursLogo.jpg",
       "PackagePath": "staticwebassets\\images\\SpursLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\SunsCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\SunsCourt.jpg"
     },
     {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\SunsLogo.jpg",
@@ -185,6 +261,14 @@
       "PackagePath": "staticwebassets\\images\\ThunderLogo.jpg"
     },
     {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\TimberCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\TimberCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\Torontocourt.jpg",
+      "PackagePath": "staticwebassets\\images\\Torontocourt.jpg"
+    },
+    {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\UtaLogo.jpg",
       "PackagePath": "staticwebassets\\images\\UtaLogo.jpg"
     },
@@ -193,16 +277,16 @@
       "PackagePath": "staticwebassets\\images\\WasLogo.jpg"
     },
     {
-      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\WizardsLogo.jpg",
-      "PackagePath": "staticwebassets\\images\\WizardsLogo.jpg"
-    },
-    {
-      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\WolvesLogo.jpg",
-      "PackagePath": "staticwebassets\\images\\WolvesLogo.jpg"
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\WizCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\WizCourt.jpg"
     },
     {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\YorkLogo.jpg",
       "PackagePath": "staticwebassets\\images\\YorkLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\Zrzut ekranu 2023-12-03 215347.jpg",
+      "PackagePath": "staticwebassets\\images\\Zrzut ekranu 2023-12-03 215347.jpg"
     },
     {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\ballLogo.jpg",
