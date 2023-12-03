@@ -1,0 +1,52 @@
+/* Dodanie stylów do dark mode */
+body {
+    background-color: #000; /* Czarne t³o dla ca³ej strony */
+    color: #fff; /* Bia³y kolor tekstu */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Minimalna wysokoœæ na ca³¹ wysokoœæ widoku */
+    margin: 0; /* Usuniêcie marginesów dla body */
+}
+
+.navbar {
+    background-color: #000; /* Czarne t³o dla navbaru */
+    color: #fff; /* Bia³y kolor tekstu na navbarze */
+}
+
+.navbar-toggler-icon {
+    background-color: #fff; /* Bia³y kolor ikony przycisku burger menu */
+}
+
+.footer {
+    background-color: #000; /* Czarne t³o dla stopki */
+    color: #fff; /* Bia³y kolor tekstu na stopce */
+    margin-top: auto; /* Automatyczny margines na górze, aby stopka zawsze by³a na dole */
+}
+
+.navbar-brand, .nav-link {
+    background-color: #000;
+    color: #fff !important; /* Bia³y kolor dla linków w navbarze */
+}
+
+#logo {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+    #logo .logo-img {
+        width: 1em;
+        height: 1em;
+        margin-right: 10px;
+    }
+
+#logo2 .logo-img {
+    width: 1em;
+    height: 1em;
+    margin-right: 10px;
+}
+.team-image {
+    max-width: 100%; /* Ustaw szerokoœæ na 100%, aby zachowaæ proporcje */
+    height: auto; /* Ustaw wysokoœæ na auto, aby zachowaæ proporcje */
+    max-height: 150px; /* Maksymalna wysokoœæ obrazka */
+}

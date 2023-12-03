@@ -1,0 +1,469 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\4Ballers.bundle.scp.css",
+      "PackagePath": "staticwebassets\\4Ballers.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\AtlLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\AtlLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\BlazersLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\BlazersLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\BucksLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\BucksLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\BullsLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\BullsLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\CavsLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\CavsLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\CeltLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\CeltLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\CharloteLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\CharloteLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\ChicagoLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\ChicagoLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\ClipersLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\ClipersLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\DenLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\DenLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\DenverLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\DenverLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\DetLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\DetLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\DinoLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\DinoLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\FrontLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\FrontLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\GrizzlyLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\GrizzlyLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\GswLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\GswLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\HawksLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\HawksLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\HeatsLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\HeatsLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\HornetLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\HornetLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\HustonLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\HustonLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\IndyLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\IndyLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\KingsLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\KingsLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\KnicksLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\KnicksLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\LakersLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\LakersLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\LalLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\LalLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\MagicLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\MagicLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\MavsLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\MavsLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\MiamiLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\MiamiLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\MillLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\MillLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\MinLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\MinLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\NetLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\NetLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\NugetLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\NugetLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\OKCLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\OKCLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\OrlandoLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\OrlandoLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\PacersLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\PacersLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\PelicansLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\PelicansLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\PhilLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\PhilLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\RocketsLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\RocketsLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\SacrLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\SacrLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\SpursLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\SpursLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\SunsLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\SunsLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\ThunderLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\ThunderLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\UtaLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\UtaLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\WasLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\WasLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\WizardsLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\WizardsLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\WolvesLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\WolvesLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\YorkLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\YorkLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\ballLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\ballLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\goodjob.jpg",
+      "PackagePath": "staticwebassets\\images\\goodjob.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\register.jpg",
+      "PackagePath": "staticwebassets\\images\\register.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\images\\welcome.jpg",
+      "PackagePath": "staticwebassets\\images\\welcome.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers-master\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.4Ballers.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.4Ballers.props",
+      "PackagePath": "build\\4Ballers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.4Ballers.props",
+      "PackagePath": "buildMultiTargeting\\4Ballers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.4Ballers.props",
+      "PackagePath": "buildTransitive\\4Ballers.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

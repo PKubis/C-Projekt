@@ -1,0 +1,85 @@
+﻿@model List<Team>
+
+<div class="container text-center mt-4">
+    <h2>Atlantic</h2>
+    <div class="my-2"></div>
+</div>
+<div class="container row justify-content-center">
+    @foreach (var team in Model.Where(t => t.Id >= 1 && t.Id <= 5))
+    {
+        <div class="col-md-2 text-center">
+            <img src="@Url.Content(team.ImageUrl)" alt="@team.Name" class="img-fluid team-image">
+            <p class="my-2">@team.Name</p>
+        </div>
+    }
+</div>
+
+<div class="container text-center mt-4">
+    <h2>Central</h2>
+    <div class="my-2"></div>
+</div>
+<div class="container row justify-content-center">
+    @foreach (var team in Model.Where(t => t.Id >= 6 && t.Id <= 10))
+    {
+        <div class="col-md-2 text-center">
+            <img src="@Url.Content(team.ImageUrl)" alt="@team.Name" class="img-fluid team-image">
+            <p class="my-2">@team.Name</p>
+        </div>
+    }
+</div>
+
+<div class="container text-center mt-3">
+    <h2>SouthEast</h2>
+    <div class="my-2"></div>
+</div>
+<div class="container row justify-content-center">
+    @foreach (var team in Model.Where(t => t.Id >= 11 && t.Id <= 15))
+    {
+        <div class="col-md-2 text-center">
+            <img src="@Url.Content(team.ImageUrl)" alt="@team.Name" class="img-fluid team-image">
+            <p class="my-2">@team.Name</p>
+        </div>
+    }
+</div>
+
+<div class="container text-center mt-4">
+    <h2>NorthEast</h2>
+    <div class="my-2"></div>
+</div>
+<div class="container row justify-content-center">
+    @foreach (var team in Model.Where(t => t.Id >= 16 && t.Id <= 20))
+    {
+        <div class="col-md-2 text-center">
+            <img src="@Url.Content(team.ImageUrl)" alt="@team.Name" class="img-fluid team-image">
+            <p class="my-2">@team.Name</p>
+        </div>
+    }
+</div>
+
+<div class="container text-center mt-4">
+    <h2>Pacific</h2>
+    <div class="my-2"></div>
+</div>
+<div class="container row justify-content-center">
+    @foreach (var team in Model.Where(t => t.Id >= 21 && t.Id <= 25))
+    {
+        <div class="col-md-2 text-center">
+            <img src="@Url.Content(team.ImageUrl)" alt="@team.Name" class="img-fluid team-image">
+            <p class="my-2">@team.Name</p>
+        </div>
+    }
+</div>
+
+<div class="container text-center mt-4">
+    <h2>SouthWest</h2>
+    <div class="my-2"></div>
+</div>
+<div class="container row justify-content-center">
+    @foreach (var team in Model.Where(t => t.Id >= 26 && t.Id <= 30))
+    {
+        <div class="col-md-2 text-center">
+            <img src="@Url.Content(team.ImageUrl)" alt="@team.Name" class="img-fluid team-image">
+            <p class="my-2">@team.Name</p>
+        </div>
+    }
+</div>
