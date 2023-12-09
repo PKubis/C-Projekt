@@ -121,6 +121,10 @@
       "PackagePath": "staticwebassets\\images\\HeatsLogo.jpg"
     },
     {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\HistoryLogo.jfif",
+      "PackagePath": "staticwebassets\\images\\HistoryLogo.jfif"
+    },
+    {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\HornetCourt.jpg",
       "PackagePath": "staticwebassets\\images\\HornetCourt.jpg"
     },
@@ -295,6 +299,18 @@
     {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\goodjob.jpg",
       "PackagePath": "staticwebassets\\images\\goodjob.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\portland trail blazers informacje wikipedia.html",
+      "PackagePath": "staticwebassets\\images\\portland trail blazers informacje wikipedia.html"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\portland trail blazers informacje wikipedia_files\\m=_b,_tp",
+      "PackagePath": "staticwebassets\\images\\portland trail blazers informacje wikipedia_files"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\portland trail blazers informacje wikipedia_files\\saved_resource.html",
+      "PackagePath": "staticwebassets\\images\\portland trail blazers informacje wikipedia_files\\saved_resource.html"
     },
     {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\4Ballers\\wwwroot\\images\\register.jpg",

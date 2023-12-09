@@ -56,4 +56,16 @@ body {
     height: 53vh; /* 100% wysokoœci widoku (viewport height) */
     object-fit: cover; /* Zdjêcie zostanie skalowane, aby wype³niæ ca³y kontener, zachowuj¹c proporcje */
 }
+.img-container {
+    width: 48%; /* Zmniejszono szerokoœæ do 48%, aby daæ trochê przestrzeni miêdzy tekstem a obrazem */
+    display: flex;
+    align-items: flex-start; /* Zaktualizowano do flex-start, aby obraz zaczyna³ siê od góry kontenera */
+    justify-content: flex-end; /* Przesuniêcie obrazu na praw¹ stronê */
+}
+
+.img-fluid {
+    width: 100%; /* Zmieniona szerokoœæ na 100%, aby wype³niæ ca³¹ dostêpn¹ szerokoœæ */
+    max-height: 100%; /* Maksymalna wysokoœæ na 100%, aby zachowaæ proporcje */
+    object-fit: cover; /* Zdjêcie zostanie skalowane, aby wype³niæ ca³y kontener, zachowuj¹c proporcje */
+}
 
