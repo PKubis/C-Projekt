@@ -1,0 +1,86 @@
+﻿@page
+@model _4Ballers.Pages.HistoryModel
+
+<style>
+    h2 {
+        color: white;
+    }
+
+    p {
+        color: white;
+        text-align: justify;
+    }
+
+    span {
+        color: orange;
+    }
+
+    .red {
+        color: red;
+    }
+
+    .green {
+        color: green;
+    }
+
+    .blue {
+        color: blue;
+    }
+
+    .yellow {
+        color: yellow;
+    }
+
+    .container {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .half-width {
+        width: 48%; /* zmniejszono szerokość do 48%, aby dać trochę przestrzeni między tekstem a obrazem */
+    }
+
+   
+</style>
+
+<div class="container">
+    <div class="half-width">
+        <h2>Historia <span>Koszykówki</span></h2>
+        <p>
+            <br />
+            Koszykówka to dynamiczna gra zespołowa, która narodziła się na przełomie XIX i XX wieku w Stanach Zjednoczonych.
+            Jej twórcą był dr James Naismith, kanadyjski nauczyciel w YMCA.
+            W 1891 roku stworzył nową grę, która miała zastąpić nudne zajęcia gimnastyczne w czasie zimy.<br />
+
+            <span>
+                <br />
+                Początkowo gra była rozgrywana na boisku o wymiarach 18 na 9 metrów, a zespoły liczyły po dziewięciu zawodników.
+                Zadaniem drużyn było zdobywanie punktów, umieszczając piłkę w koszu zawieszonym na wysokości 3,05 metra.
+                Pierwszy mecz odbył się 21 grudnia 1891 roku w YMCA w Springfield w stanie Massachusetts.<br />
+            </span>
+            <br />
+            Koszykówka szybko zyskała popularność i rozprzestrzeniła się na cały świat.
+            W 1936 roku została oficjalnie wprowadzona na igrzyskach olimpijskich w Berlinie, gdzie zadebiutowała jako dyscyplina medalowa.
+            Od tego czasu stała się jedną z najważniejszych i najbardziej ekscytujących dyscyplin sportowych.<br />
+
+            <span>
+                <br /> W latach 50. i 60. XX wieku narodziła się era wielkich gwiazd koszykówki, takich jak Bill Russell, Wilt Chamberlain.
+                W kolejnych dziesięcioleciach dołączyli do nich inni legendarni gracze, w tym
+                <span class="red">Michael Jordan</span>,
+                <span class="green">Larry Bird</span>,
+                <span class="blue">Magic Johnson</span> i
+                <span class="yellow">Shaquille O'Neal</span>,
+                tworząc złoty okres dla ligi NBA.
+                <br />
+            </span>
+            <br />
+            Obecnie koszykówka to nie tylko sport, ale także globalny fenomen kulturowy.
+            Popularność ligi NBA, międzynarodowe turnieje, takie jak Mistrzostwa Świata FIBA, oraz rozwój lig krajowych na całym świecie sprawiły,
+            że koszykówka stała się jedną z najbardziej rozpoznawalnych i cenionych dyscyplin sportowych na globie.
+        </p>
+    </div>
+
+    <div class="img-container">
+        <img src="~/images/HistoryLogo.jfif" alt="Historia Koszykówki" class="img-fluid team-image">
+    </div>
+</div>

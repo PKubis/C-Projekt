@@ -1,0 +1,28 @@
+﻿@model (Team, TeamInfo)
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-3">
+            <!-- Kontener z informacjami o drużynie po lewej stronie -->
+            <div>
+                <h2>@Model.Item1.Name</h2>
+                <p>Nazwa: @Model.Item2.Name</p>
+                <p>Przydomek: @Model.Item2.Nickname</p>
+                <p>Maskotka: @Model.Item2.Mascot</p>
+                <p>Data założenia: @Model.Item2.Founded.ToString("yyyy-MM-dd")</p>
+                <p>Hala sportowa: @Model.Item2.Arena</p>
+                <p>Trener: @Model.Item2.Coach</p>
+                <p>Mistrzostwa: @Model.Item2.Championships</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Zdjęcie zajmujące całą szerokość i wysokość strony -->
+<div class="container-fluid mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-12 text-center">
+            <img src="@Url.Content(Model.Item2.TeamImageUrl)" alt="@Model.Item2.Name" class="img-fluid team-image-full">
+        </div>
+    </div>
+</div>

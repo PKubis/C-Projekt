@@ -1,0 +1,573 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\4Ballers.bundle.scp.css",
+      "PackagePath": "staticwebassets\\4Ballers.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\76court.jpg",
+      "PackagePath": "staticwebassets\\images\\76court.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\AtlCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\AtlCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\AtlLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\AtlLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\BlazersCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\BlazersCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\BlazersLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\BlazersLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\BostonCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\BostonCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\BrooklynCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\BrooklynCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\BucksLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\BucksLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\BullsCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\BullsCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\BullsLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\BullsLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\CavsCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\CavsCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\CavsLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\CavsLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\CeltLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\CeltLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\ChicagoLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\ChicagoLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\ClipersLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\ClipersLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\DenLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\DenLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\DenvCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\DenvCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\DetLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\DetLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\DetroitCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\DetroitCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\DinoLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\DinoLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\FrontLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\FrontLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\GSWCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\GSWCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\GrizllyCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\GrizllyCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\GrizzlyLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\GrizzlyLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\GswLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\GswLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\HeatCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\HeatCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\HeatsLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\HeatsLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\HistoryLogo.jfif",
+      "PackagePath": "staticwebassets\\images\\HistoryLogo.jfif"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\HornetCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\HornetCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\HornetLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\HornetLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\HustonCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\HustonCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\IndyLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\IndyLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\JazzCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\JazzCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\KingsCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\KingsCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\KnicksLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\KnicksLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\LACCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\LACCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\LALCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\LALCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\LakersLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\LakersLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\LalLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\LalLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\MagicCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\MagicCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\MavsCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\MavsCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\MavsLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\MavsLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\MiamiLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\MiamiLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\MillCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\MillCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\MillLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\MillLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\MinLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\MinLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\NetLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\NetLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\NugetLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\NugetLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\Nykcourt.jpg",
+      "PackagePath": "staticwebassets\\images\\Nykcourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\OKCCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\OKCCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\OrlandoLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\OrlandoLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\PacersCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\PacersCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\PacersLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\PacersLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\PelicanCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\PelicanCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\PelicansLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\PelicansLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\PhilLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\PhilLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\RocketsLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\RocketsLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\SacrLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\SacrLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\SpursCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\SpursCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\SpursLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\SpursLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\SunsCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\SunsCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\SunsLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\SunsLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\ThunderLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\ThunderLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\TimberCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\TimberCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\Torontocourt.jpg",
+      "PackagePath": "staticwebassets\\images\\Torontocourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\UtaLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\UtaLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\WasLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\WasLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\WizCourt.jpg",
+      "PackagePath": "staticwebassets\\images\\WizCourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\YorkLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\YorkLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\Zrzut ekranu 2023-12-03 215347.jpg",
+      "PackagePath": "staticwebassets\\images\\Zrzut ekranu 2023-12-03 215347.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\ballLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\ballLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\goodjob.jpg",
+      "PackagePath": "staticwebassets\\images\\goodjob.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\portland trail blazers informacje wikipedia.html",
+      "PackagePath": "staticwebassets\\images\\portland trail blazers informacje wikipedia.html"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\portland trail blazers informacje wikipedia_files\\m=_b,_tp",
+      "PackagePath": "staticwebassets\\images\\portland trail blazers informacje wikipedia_files"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\portland trail blazers informacje wikipedia_files\\saved_resource.html",
+      "PackagePath": "staticwebassets\\images\\portland trail blazers informacje wikipedia_files\\saved_resource.html"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\register.jpg",
+      "PackagePath": "staticwebassets\\images\\register.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\welcome.jpg",
+      "PackagePath": "staticwebassets\\images\\welcome.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.4Ballers.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.4Ballers.props",
+      "PackagePath": "build\\4Ballers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.4Ballers.props",
+      "PackagePath": "buildMultiTargeting\\4Ballers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.4Ballers.props",
+      "PackagePath": "buildTransitive\\4Ballers.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
