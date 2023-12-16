@@ -1,0 +1,27 @@
+﻿@model _4Ballers.Models.Product
+
+<h2>Edytuj Produkt</h2>
+
+<form asp-action="Edit" asp-route-id="@Model.Id">
+    <div>
+        <label asp-for="Name">Nazwa:</label>
+        <input asp-for="Name" />
+    </div>
+    <div>
+        <label asp-for="Brand">Marka:</label>
+        <input asp-for="Brand" />
+    </div>
+    <div>
+        <label asp-for="Price">Cena:</label>
+        <input asp-for="Price" />
+    </div>
+    <div>
+        <label asp-for="ImageUrl">URL Obrazka:</label>
+        <input asp-for="ImageUrl" />
+    </div>
+    <div>
+        <label asp-for="Description">Opis:</label>
+        <textarea asp-for="Description"></textarea>
+    </div>
+    <button type="submit">Zapisz zmiany</button>
+</form>

@@ -1,5 +1,7 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using _4Ballers.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using System.Linq; // Dodaj tę dyrektywę using
 
 namespace _4Ballers.Data
 {
@@ -9,5 +11,10 @@ namespace _4Ballers.Data
             : base(options)
         {
         }
+
+        public DbSet<Product> Products { get; set; }
+
+       
+
     }
 }

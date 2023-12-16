@@ -188,8 +188,32 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpdmF0ZVxCYXNrZXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/piotr/Desktop/repo/C-Projekt-main/Views/Private/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpdmF0ZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/piotr/Desktop/repo/C-Projekt-main/Views/Private/Shoes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpdmF0ZVxTaG9lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/piotr/Desktop/repo/C-Projekt-main/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/piotr/Desktop/repo/C-Projekt-main/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/piotr/Desktop/repo/C-Projekt-main/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/piotr/Desktop/repo/C-Projekt-main/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/piotr/Desktop/repo/C-Projekt-main/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/piotr/Desktop/repo/C-Projekt-main/Views/Public/Contact.cshtml]

@@ -88,3 +88,22 @@ body {
 .form-group {
     margin-bottom: 15px;
 }
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.col-md-2-4 {
+    flex: 0 0 20%;
+    max-width: 20%;
+}
+
+.shoe-item {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+    .shoe-item img {
+        max-height: 150px;
+        object-fit: contain;
+    }

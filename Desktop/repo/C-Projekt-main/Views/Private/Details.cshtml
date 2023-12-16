@@ -1,0 +1,12 @@
+﻿@model _4Ballers.Models.Product
+
+<h2>Szczegóły Produktu</h2>
+
+<div>
+    <img src="@Model.ImageUrl" alt="@Model.Name" style="width:300px; height:300px;"/>
+    <h3>@Model.Name</h3>
+    <p>@Model.Description</p>
+    <p>Cena: @Model.Price zł</p>
+    <button onclick="addToCart(@Model.Id)">Dodaj do koszyka</button>
+    <!-- Tu można dodać więcej informacji o produkcie, jak rozmiary, itp. -->
+</div>

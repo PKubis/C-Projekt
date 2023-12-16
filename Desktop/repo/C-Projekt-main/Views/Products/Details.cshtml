@@ -1,0 +1,15 @@
+﻿@model _4Ballers.Models.Product
+
+<h2>Szczegóły Produktu</h2>
+
+<div>
+    <h3>@Model.Name</h3>
+    <p>Marka: @Model.Brand</p>
+    <p>Cena: @Model.Price zł</p>
+    <p>Opis: @Model.Description</p>
+    <img src="@Url.Content("~/images/" + Model.ImageUrl)" alt="@Model.Name" style="width:100px; height:100px;" />
+</div>
+
+<a asp-action="Edit" asp-route-id="@Model.Id">Edytuj</a> |
+<a asp-action="Delete" asp-route-id="@Model.Id">Usuń</a> |
+<a asp-action="Index">Powrót do listy</a>

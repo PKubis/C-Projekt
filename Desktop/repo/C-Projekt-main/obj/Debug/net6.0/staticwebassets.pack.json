@@ -145,12 +145,24 @@
       "PackagePath": "staticwebassets\\images\\JazzCourt.jpg"
     },
     {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\Jordan11.png",
+      "PackagePath": "staticwebassets\\images\\Jordan11.png"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\Jordan12.png",
+      "PackagePath": "staticwebassets\\images\\Jordan12.png"
+    },
+    {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\KingsCourt.jpg",
       "PackagePath": "staticwebassets\\images\\KingsCourt.jpg"
     },
     {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\KnicksLogo.jpg",
       "PackagePath": "staticwebassets\\images\\KnicksLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\Kobe.png",
+      "PackagePath": "staticwebassets\\images\\Kobe.png"
     },
     {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\LACCourt.jpg",
@@ -169,6 +181,10 @@
       "PackagePath": "staticwebassets\\images\\LalLogo.jpg"
     },
     {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\Lebron2.png",
+      "PackagePath": "staticwebassets\\images\\Lebron2.png"
+    },
+    {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\MagicCourt.jpg",
       "PackagePath": "staticwebassets\\images\\MagicCourt.jpg"
     },
@@ -179,6 +195,10 @@
     {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\MavsLogo.jpg",
       "PackagePath": "staticwebassets\\images\\MavsLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\MaxAura.png",
+      "PackagePath": "staticwebassets\\images\\MaxAura.png"
     },
     {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\MiamiLogo.jpg",
@@ -299,6 +319,54 @@
     {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\goodjob.jpg",
       "PackagePath": "staticwebassets\\images\\goodjob.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\jordan1.png",
+      "PackagePath": "staticwebassets\\images\\jordan1.png"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\jordan11.jpg",
+      "PackagePath": "staticwebassets\\images\\jordan11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\jordan13.jpg",
+      "PackagePath": "staticwebassets\\images\\jordan13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\jordan14.jpg",
+      "PackagePath": "staticwebassets\\images\\jordan14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\jordan18.jpg",
+      "PackagePath": "staticwebassets\\images\\jordan18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\jordan2.jpg",
+      "PackagePath": "staticwebassets\\images\\jordan2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\jordan20.jpg",
+      "PackagePath": "staticwebassets\\images\\jordan20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\jordan4.jpg",
+      "PackagePath": "staticwebassets\\images\\jordan4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\jordan5.jpg",
+      "PackagePath": "staticwebassets\\images\\jordan5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\jordan8.jpg",
+      "PackagePath": "staticwebassets\\images\\jordan8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\jordan9.png",
+      "PackagePath": "staticwebassets\\images\\jordan9.png"
+    },
+    {
+      "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\pippen.png",
+      "PackagePath": "staticwebassets\\images\\pippen.png"
     },
     {
       "Id": "C:\\Users\\piotr\\Desktop\\repo\\C-Projekt-main\\wwwroot\\images\\portland trail blazers informacje wikipedia.html",

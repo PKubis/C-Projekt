@@ -33,6 +33,7 @@ builder.Services.ConfigureApplicationCookie(options =>
 
 var app = builder.Build();
 
+
 // Konfiguracja potoku ¿¹dañ HTTP
 if (app.Environment.IsDevelopment())
 {
@@ -68,5 +69,16 @@ app.MapControllerRoute(
     name: "teams",
     pattern: "Public/Teams",
     defaults: new { controller = "Public", action = "Teams" });
+
+app.MapControllerRoute(
+    name: "productDetails",
+    pattern: "Private/Details/{id}",
+    defaults: new { controller = "Products", action = "Details" });
+
+app.MapControllerRoute(
+    name: "products",
+    pattern: "Products/{action=Index}/{id?}",
+    defaults: new { controller = "Products" });
+
 
 app.Run();
