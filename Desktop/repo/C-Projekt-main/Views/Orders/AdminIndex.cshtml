@@ -1,0 +1,33 @@
+﻿@model IEnumerable<_4Ballers.Models.OrderItem>
+
+<h2>Koszyk (widok admina)</h2>
+
+<table class="table">
+    <tr>
+        <th>Logo</th>
+        <th>Produkt</th>
+        <th>Rozmiar</th>
+        <th>Ilość</th>
+        <th>Cena</th>
+        <th>Kupujący</th>
+        <th>Akcje</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td><img src="@Url.Content($"~/images/{item.Product.ImageUrl}")" alt="@item.Product.Name" style="width:50px;" /></td>
+            <td>@item.Product.Name</td>
+            <td>@item.Size</td>
+            <td>@item.Quantity</td>
+            <td>@item.TotalPrice zł</td>
+            <td>@item.User.Email</td> <!-- Wyświetl e-mail użytkownika -->
+            <td>
+                <form asp-controller="Orders" asp-action="DeleteOrder" method="post">
+                    <input type="hidden" name="OrderId" value="@item.Id" />
+                    <button type="submit" class="btn btn-danger">Usuń</button>
+                </form>
+
+            </td>
+        </tr>
+    }
+</table>

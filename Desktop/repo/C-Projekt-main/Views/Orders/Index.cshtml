@@ -2,10 +2,11 @@
 
 <h2>Koszyk</h2>
 
-@if (Model != null && Model.Any())
+@if (Model.Any())
 {
     <table class="table">
         <tr>
+            <th>Logo</th>
             <th>Produkt</th>
             <th>Rozmiar</th>
             <th>Ilość</th>
@@ -15,10 +16,14 @@
         @foreach (var item in Model)
         {
             <tr>
+                <td>
+                    <!-- Tutaj wyświetlamy logo produktu -->
+                    <img src="@Url.Content($"~/images/{item.Product.ImageUrl}")" alt="@item.Product.Name" style="width:50px; height:auto;" />
+                </td>
                 <td>@item.Product.Name</td>
                 <td>@item.Size</td>
                 <td>@item.Quantity</td>
-                <td>@item.TotalPrice</td>
+                <td>@item.TotalPrice zł</td>
                 <td>
                     <form asp-controller="Orders" asp-action="RemoveFromBasket" method="post">
                         <input type="hidden" name="OrderItemId" value="@item.Id" />
@@ -30,9 +35,9 @@
     </table>
 
     <p>Razem: @Model.Sum(item => item.TotalPrice) zł</p>
-    <!-- Tu można dodać przycisk do finalizacji zamówienia -->
 }
 else
 {
     <p>Twój koszyk jest pusty.</p>
 }
+<a href="@Url.Action("Index", "Products")" class="btn btn-secondary">Powrót do zakupów</a>

@@ -1,4 +1,9 @@
 ﻿@model _4Ballers.Models.Product
+@inject UserManager<IdentityUser> UserManager
+
+@{
+    var isAdmin = User.Identity.IsAuthenticated && (UserManager.GetUserAsync(User).Result?.Email == "piotrkubis1989@gmail.com");
+}
 
 <h2>Szczegóły Produktu</h2>
 
@@ -7,9 +12,27 @@
     <p>Marka: @Model.Brand</p>
     <p>Cena: @Model.Price zł</p>
     <p>Opis: @Model.Description</p>
-    <img src="@Url.Content("~/images/" + Model.ImageUrl)" alt="@Model.Name" style="width:100px; height:100px;" />
-</div>
+    <img src="@Url.Content("~/images/" + Model.ImageUrl)" alt="@Model.Name" style="max-width:300px; height:auto; object-fit:contain;" />
 
-<a asp-action="Edit" asp-route-id="@Model.Id">Edytuj</a> |
-<a asp-action="Delete" asp-route-id="@Model.Id">Usuń</a> |
-<a asp-action="Index">Powrót do listy</a>
+    <form asp-controller="Orders" asp-action="AddToBasket" method="post">
+        <input type="hidden" name="ProductId" value="@Model.Id" />
+        <label for="size">Wybierz rozmiar:</label>
+        <select name="Size" id="size">
+            @for (int i = 36; i <= 47; i++)
+            {
+                <option value="@i">@i</option>
+            }
+        </select>
+        <button type="submit" class="btn btn-primary">Dodaj do koszyka</button>
+    </form>
+
+
+
+    @if (isAdmin)
+    {
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edytuj</a>
+        <a asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger">Usuń</a>
+    }
+
+    <a asp-action="Index" class="btn btn-secondary">Powrót do listy</a>
+</div>

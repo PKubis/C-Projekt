@@ -13,8 +13,8 @@ namespace _4Ballers.Data
         }
 
         public DbSet<Product> Products { get; set; }
+        public DbSet<OrderItem> OrderItems { get; set; }
 
-       
 
     }
 }
